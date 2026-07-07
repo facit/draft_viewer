@@ -1,0 +1,3269 @@
+{
+  "draft": {
+    "set": "ASH",
+    "date": "2026-07-05",
+    "seats": [
+      {
+        "seat": 1,
+        "player": "Pontus"
+      },
+      {
+        "seat": 2,
+        "player": "Tim"
+      },
+      {
+        "seat": 3,
+        "player": "Albin"
+      },
+      {
+        "seat": 4,
+        "player": "Linus"
+      },
+      {
+        "seat": 5,
+        "player": "Adam"
+      },
+      {
+        "seat": 6,
+        "player": "Niklas"
+      },
+      {
+        "seat": 7,
+        "player": "Elias"
+      },
+      {
+        "seat": 8,
+        "player": "Wadman"
+      }
+    ],
+    "config": {
+      "pack_size": 14,
+      "protagonist_seat": 1,
+      "pass_directions": {
+        "1": "left",
+        "2": "right",
+        "3": "left"
+      }
+    }
+  },
+  "packs": [
+    {
+      "pack_id": "R1-S1",
+      "round": 1,
+      "opened_by_seat": 1,
+      "token": 1,
+      "cards": [
+        "ASH-080",
+        "ASH-088",
+        "ASH-091",
+        "ASH-106",
+        "ASH-113",
+        "ASH-121",
+        "ASH-122",
+        "ASH-176",
+        "ASH-180",
+        "ASH-225",
+        "ASH-242",
+        "ASH-258",
+        "ASH-260",
+        "ASH-262"
+      ]
+    },
+    {
+      "pack_id": "R1-S2",
+      "round": 1,
+      "opened_by_seat": 2,
+      "token": 2,
+      "cards": [
+        "ASH-074",
+        "ASH-086",
+        "ASH-136",
+        "ASH-173",
+        "ASH-176",
+        "ASH-181",
+        "ASH-208",
+        "ASH-213",
+        "ASH-237",
+        "ASH-250",
+        "ASH-256",
+        "ASH-308",
+        "ASH-502",
+        "ASH-553"
+      ]
+    },
+    {
+      "pack_id": "R1-S3",
+      "round": 1,
+      "opened_by_seat": 3,
+      "token": 3,
+      "cards": [
+        "ASH-030",
+        "ASH-041",
+        "ASH-048",
+        "ASH-077",
+        "ASH-078",
+        "ASH-117",
+        "ASH-133",
+        "ASH-150",
+        "ASH-152",
+        "ASH-193",
+        "ASH-200",
+        "ASH-213",
+        "ASH-246",
+        "ASH-550"
+      ]
+    },
+    {
+      "pack_id": "R1-S4",
+      "round": 1,
+      "opened_by_seat": 4,
+      "token": 4,
+      "cards": [
+        "ASH-033",
+        "ASH-088",
+        "ASH-122",
+        "ASH-140",
+        "ASH-170",
+        "ASH-198",
+        "ASH-207",
+        "ASH-216",
+        "ASH-263",
+        "ASH-335",
+        "ASH-407",
+        "ASH-654",
+        "ASH-735",
+        "ASH-785"
+      ]
+    },
+    {
+      "pack_id": "R1-S5",
+      "round": 1,
+      "opened_by_seat": 5,
+      "token": 5,
+      "cards": [
+        "ASH-093",
+        "ASH-114",
+        "ASH-171",
+        "ASH-184",
+        "ASH-187",
+        "ASH-217",
+        "ASH-226",
+        "ASH-227",
+        "ASH-233",
+        "ASH-340",
+        "ASH-381",
+        "ASH-411",
+        "ASH-486",
+        "ASH-740"
+      ]
+    },
+    {
+      "pack_id": "R1-S6",
+      "round": 1,
+      "opened_by_seat": 6,
+      "token": 6,
+      "cards": [
+        "ASH-049",
+        "ASH-073",
+        "ASH-080",
+        "ASH-092",
+        "ASH-161",
+        "ASH-162",
+        "ASH-184",
+        "ASH-205",
+        "ASH-209",
+        "ASH-233",
+        "ASH-238",
+        "ASH-395",
+        "ASH-449",
+        "ASH-531"
+      ]
+    },
+    {
+      "pack_id": "R1-S7",
+      "round": 1,
+      "opened_by_seat": 7,
+      "token": 7,
+      "cards": [
+        "ASH-069",
+        "ASH-092",
+        "ASH-098",
+        "ASH-126",
+        "ASH-140",
+        "ASH-165",
+        "ASH-188",
+        "ASH-205",
+        "ASH-216",
+        "ASH-250",
+        "ASH-409",
+        "ASH-461",
+        "ASH-584",
+        "ASH-666"
+      ]
+    },
+    {
+      "pack_id": "R1-S8",
+      "round": 1,
+      "opened_by_seat": 8,
+      "token": 8,
+      "cards": [
+        "ASH-048",
+        "ASH-071",
+        "ASH-098",
+        "ASH-106",
+        "ASH-117",
+        "ASH-152",
+        "ASH-163",
+        "ASH-169",
+        "ASH-172",
+        "ASH-212",
+        "ASH-215",
+        "ASH-231",
+        "ASH-262",
+        "ASH-291"
+      ]
+    },
+    {
+      "pack_id": "R2-S1",
+      "round": 2,
+      "opened_by_seat": 1,
+      "token": 1,
+      "cards": [
+        "ASH-081",
+        "ASH-086",
+        "ASH-097",
+        "ASH-141",
+        "ASH-147",
+        "ASH-166",
+        "ASH-174",
+        "ASH-189",
+        "ASH-210",
+        "ASH-228",
+        "ASH-252",
+        "ASH-261",
+        "ASH-734",
+        "ASH-741"
+      ]
+    },
+    {
+      "pack_id": "R2-S2",
+      "round": 2,
+      "opened_by_seat": 2,
+      "token": 2,
+      "cards": [
+        "ASH-038",
+        "ASH-061",
+        "ASH-133",
+        "ASH-150",
+        "ASH-165",
+        "ASH-187",
+        "ASH-190",
+        "ASH-201",
+        "ASH-217",
+        "ASH-228",
+        "ASH-252",
+        "ASH-480",
+        "ASH-508",
+        "ASH-668"
+      ]
+    },
+    {
+      "pack_id": "R2-S3",
+      "round": 2,
+      "opened_by_seat": 3,
+      "token": 3,
+      "cards": [
+        "ASH-061",
+        "ASH-075",
+        "ASH-139",
+        "ASH-154",
+        "ASH-185",
+        "ASH-194",
+        "ASH-211",
+        "ASH-221",
+        "ASH-232",
+        "ASH-238",
+        "ASH-239",
+        "ASH-489",
+        "ASH-526",
+        "ASH-597"
+      ]
+    },
+    {
+      "pack_id": "R2-S4",
+      "round": 2,
+      "opened_by_seat": 4,
+      "token": 4,
+      "cards": [
+        "ASH-032",
+        "ASH-082",
+        "ASH-096",
+        "ASH-111",
+        "ASH-121",
+        "ASH-157",
+        "ASH-180",
+        "ASH-189",
+        "ASH-193",
+        "ASH-244",
+        "ASH-246",
+        "ASH-362",
+        "ASH-389",
+        "ASH-718"
+      ]
+    },
+    {
+      "pack_id": "R2-S5",
+      "round": 2,
+      "opened_by_seat": 5,
+      "token": 5,
+      "cards": [
+        "ASH-058",
+        "ASH-068",
+        "ASH-071",
+        "ASH-090",
+        "ASH-119",
+        "ASH-130",
+        "ASH-138",
+        "ASH-146",
+        "ASH-164",
+        "ASH-190",
+        "ASH-244",
+        "ASH-254",
+        "ASH-424",
+        "ASH-694"
+      ]
+    },
+    {
+      "pack_id": "R2-S6",
+      "round": 2,
+      "opened_by_seat": 6,
+      "token": 6,
+      "cards": [
+        "ASH-050",
+        "ASH-053",
+        "ASH-058",
+        "ASH-069",
+        "ASH-078",
+        "ASH-126",
+        "ASH-130",
+        "ASH-137",
+        "ASH-141",
+        "ASH-143",
+        "ASH-186",
+        "ASH-254",
+        "ASH-259",
+        "ASH-573"
+      ]
+    },
+    {
+      "pack_id": "R2-S7",
+      "round": 2,
+      "opened_by_seat": 7,
+      "token": 7,
+      "cards": [
+        "ASH-042",
+        "ASH-062",
+        "ASH-064",
+        "ASH-089",
+        "ASH-095",
+        "ASH-096",
+        "ASH-131",
+        "ASH-136",
+        "ASH-191",
+        "ASH-222",
+        "ASH-253",
+        "ASH-259",
+        "ASH-333",
+        "ASH-516"
+      ]
+    },
+    {
+      "pack_id": "R2-S8",
+      "round": 2,
+      "opened_by_seat": 8,
+      "token": 8,
+      "cards": [
+        "ASH-047",
+        "ASH-056",
+        "ASH-081",
+        "ASH-091",
+        "ASH-108",
+        "ASH-138",
+        "ASH-166",
+        "ASH-175",
+        "ASH-185",
+        "ASH-221",
+        "ASH-235",
+        "ASH-242",
+        "ASH-346",
+        "ASH-643"
+      ]
+    },
+    {
+      "pack_id": "R3-S1",
+      "round": 3,
+      "opened_by_seat": 1,
+      "token": 1,
+      "cards": [
+        "ASH-034",
+        "ASH-065",
+        "ASH-072",
+        "ASH-082",
+        "ASH-103",
+        "ASH-156",
+        "ASH-175",
+        "ASH-218",
+        "ASH-225",
+        "ASH-227",
+        "ASH-240",
+        "ASH-241",
+        "ASH-521",
+        "ASH-608"
+      ]
+    },
+    {
+      "pack_id": "R3-S2",
+      "round": 3,
+      "opened_by_seat": 2,
+      "token": 2,
+      "cards": [
+        "ASH-057",
+        "ASH-125",
+        "ASH-129",
+        "ASH-145",
+        "ASH-192",
+        "ASH-203",
+        "ASH-215",
+        "ASH-220",
+        "ASH-231",
+        "ASH-249",
+        "ASH-261",
+        "ASH-263",
+        "ASH-264",
+        "ASH-677"
+      ]
+    },
+    {
+      "pack_id": "R3-S3",
+      "round": 3,
+      "opened_by_seat": 3,
+      "token": 3,
+      "cards": [
+        "ASH-029",
+        "ASH-035",
+        "ASH-051",
+        "ASH-120",
+        "ASH-134",
+        "ASH-167",
+        "ASH-171",
+        "ASH-188",
+        "ASH-201",
+        "ASH-234",
+        "ASH-251",
+        "ASH-264",
+        "ASH-350",
+        "ASH-588"
+      ]
+    },
+    {
+      "pack_id": "R3-S4",
+      "round": 3,
+      "opened_by_seat": 4,
+      "token": 4,
+      "cards": [
+        "ASH-041",
+        "ASH-051",
+        "ASH-087",
+        "ASH-104",
+        "ASH-107",
+        "ASH-116",
+        "ASH-120",
+        "ASH-160",
+        "ASH-170",
+        "ASH-218",
+        "ASH-240",
+        "ASH-327",
+        "ASH-430",
+        "ASH-523"
+      ]
+    },
+    {
+      "pack_id": "R3-S5",
+      "round": 3,
+      "opened_by_seat": 5,
+      "token": 5,
+      "cards": [
+        "ASH-045",
+        "ASH-057",
+        "ASH-076",
+        "ASH-116",
+        "ASH-142",
+        "ASH-143",
+        "ASH-155",
+        "ASH-157",
+        "ASH-204",
+        "ASH-249",
+        "ASH-258",
+        "ASH-260",
+        "ASH-390",
+        "ASH-764"
+      ]
+    },
+    {
+      "pack_id": "R3-S6",
+      "round": 3,
+      "opened_by_seat": 6,
+      "token": 6,
+      "cards": [
+        "ASH-046",
+        "ASH-075",
+        "ASH-100",
+        "ASH-131",
+        "ASH-154",
+        "ASH-164",
+        "ASH-174",
+        "ASH-178",
+        "ASH-232",
+        "ASH-234",
+        "ASH-251",
+        "ASH-373",
+        "ASH-471",
+        "ASH-575"
+      ]
+    },
+    {
+      "pack_id": "R3-S7",
+      "round": 3,
+      "opened_by_seat": 7,
+      "token": 7,
+      "cards": [
+        "ASH-087",
+        "ASH-107",
+        "ASH-111",
+        "ASH-124",
+        "ASH-127",
+        "ASH-129",
+        "ASH-145",
+        "ASH-153",
+        "ASH-214",
+        "ASH-223",
+        "ASH-236",
+        "ASH-452",
+        "ASH-469",
+        "ASH-642"
+      ]
+    },
+    {
+      "pack_id": "R3-S8",
+      "round": 3,
+      "opened_by_seat": 8,
+      "token": 8,
+      "cards": [
+        "ASH-045",
+        "ASH-067",
+        "ASH-089",
+        "ASH-093",
+        "ASH-115",
+        "ASH-134",
+        "ASH-167",
+        "ASH-202",
+        "ASH-214",
+        "ASH-222",
+        "ASH-239",
+        "ASH-386",
+        "ASH-552",
+        "ASH-748"
+      ]
+    }
+  ],
+  "picks": [
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 1,
+      "seat": 1,
+      "card": "ASH-176",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 1,
+      "seat": 2,
+      "card": "ASH-176",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 1,
+      "seat": 3,
+      "card": "ASH-550",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 1,
+      "seat": 4,
+      "card": "ASH-216",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 1,
+      "seat": 5,
+      "card": "ASH-411",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 1,
+      "seat": 6,
+      "card": "ASH-049",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 1,
+      "seat": 7,
+      "card": "ASH-098",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 1,
+      "seat": 8,
+      "card": "ASH-048",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 2,
+      "seat": 1,
+      "card": "ASH-173",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 2,
+      "seat": 2,
+      "card": "ASH-048",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 2,
+      "seat": 3,
+      "card": "ASH-407",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 2,
+      "seat": 4,
+      "card": "ASH-486",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 2,
+      "seat": 5,
+      "card": "ASH-161",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 2,
+      "seat": 6,
+      "card": "ASH-092",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 2,
+      "seat": 7,
+      "card": "ASH-098",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 2,
+      "seat": 8,
+      "card": "ASH-088",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 3,
+      "seat": 1,
+      "card": "ASH-193",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 3,
+      "seat": 2,
+      "card": "ASH-785",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 3,
+      "seat": 3,
+      "card": "ASH-187",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 3,
+      "seat": 4,
+      "card": "ASH-238",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 3,
+      "seat": 5,
+      "card": "ASH-126",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 3,
+      "seat": 6,
+      "card": "ASH-071",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 3,
+      "seat": 7,
+      "card": "ASH-121",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 3,
+      "seat": 8,
+      "card": "ASH-502",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 4,
+      "seat": 1,
+      "card": "ASH-170",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 4,
+      "seat": 2,
+      "card": "ASH-114",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 4,
+      "seat": 3,
+      "card": "ASH-209",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 4,
+      "seat": 4,
+      "card": "ASH-666",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 4,
+      "seat": 5,
+      "card": "ASH-163",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 4,
+      "seat": 6,
+      "card": "ASH-080",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 4,
+      "seat": 7,
+      "card": "ASH-553",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 4,
+      "seat": 8,
+      "card": "ASH-077",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 5,
+      "seat": 1,
+      "card": "ASH-740",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 5,
+      "seat": 2,
+      "card": "ASH-080",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 5,
+      "seat": 3,
+      "card": "ASH-165",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 5,
+      "seat": 4,
+      "card": "ASH-215",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 5,
+      "seat": 5,
+      "card": "ASH-106",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 5,
+      "seat": 6,
+      "card": "ASH-308",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 5,
+      "seat": 7,
+      "card": "ASH-200",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 5,
+      "seat": 8,
+      "card": "ASH-140",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 6,
+      "seat": 1,
+      "card": "ASH-184",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 6,
+      "seat": 2,
+      "card": "ASH-409",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 6,
+      "seat": 3,
+      "card": "ASH-172",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 6,
+      "seat": 4,
+      "card": "ASH-242",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 6,
+      "seat": 5,
+      "card": "ASH-256",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 6,
+      "seat": 6,
+      "card": "ASH-078",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 6,
+      "seat": 7,
+      "card": "ASH-122",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 6,
+      "seat": 8,
+      "card": "ASH-093",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 7,
+      "seat": 1,
+      "card": "ASH-216",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 7,
+      "seat": 2,
+      "card": "ASH-106",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 7,
+      "seat": 3,
+      "card": "ASH-258",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 7,
+      "seat": 4,
+      "card": "ASH-181",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 7,
+      "seat": 5,
+      "card": "ASH-133",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 7,
+      "seat": 6,
+      "card": "ASH-335",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 7,
+      "seat": 7,
+      "card": "ASH-340",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 7,
+      "seat": 8,
+      "card": "ASH-073",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 8,
+      "seat": 1,
+      "card": "ASH-169",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 8,
+      "seat": 2,
+      "card": "ASH-113",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 8,
+      "seat": 3,
+      "card": "ASH-208",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 8,
+      "seat": 4,
+      "card": "ASH-041",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 8,
+      "seat": 5,
+      "card": "ASH-033",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 8,
+      "seat": 6,
+      "card": "ASH-226",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 8,
+      "seat": 7,
+      "card": "ASH-531",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 8,
+      "seat": 8,
+      "card": "ASH-140",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 9,
+      "seat": 1,
+      "card": "ASH-225",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 9,
+      "seat": 2,
+      "card": "ASH-086",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 9,
+      "seat": 3,
+      "card": "ASH-152",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 9,
+      "seat": 4,
+      "card": "ASH-263",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 9,
+      "seat": 5,
+      "card": "ASH-171",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 9,
+      "seat": 6,
+      "card": "ASH-092",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 9,
+      "seat": 7,
+      "card": "ASH-584",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 9,
+      "seat": 8,
+      "card": "ASH-117",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 10,
+      "seat": 1,
+      "card": "ASH-237",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 10,
+      "seat": 2,
+      "card": "ASH-030",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 10,
+      "seat": 3,
+      "card": "ASH-654",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 10,
+      "seat": 4,
+      "card": "ASH-184",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 10,
+      "seat": 5,
+      "card": "ASH-395",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 10,
+      "seat": 6,
+      "card": "ASH-069",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 10,
+      "seat": 7,
+      "card": "ASH-291",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 10,
+      "seat": 8,
+      "card": "ASH-122",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 11,
+      "seat": 1,
+      "card": "ASH-213",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 11,
+      "seat": 2,
+      "card": "ASH-088",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 11,
+      "seat": 3,
+      "card": "ASH-227",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 11,
+      "seat": 4,
+      "card": "ASH-233",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 11,
+      "seat": 5,
+      "card": "ASH-250",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 11,
+      "seat": 6,
+      "card": "ASH-262",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 11,
+      "seat": 7,
+      "card": "ASH-180",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 11,
+      "seat": 8,
+      "card": "ASH-213",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 12,
+      "seat": 1,
+      "card": "ASH-735",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 12,
+      "seat": 2,
+      "card": "ASH-381",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 12,
+      "seat": 3,
+      "card": "ASH-205",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 12,
+      "seat": 4,
+      "card": "ASH-461",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 12,
+      "seat": 5,
+      "card": "ASH-152",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 12,
+      "seat": 6,
+      "card": "ASH-260",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 12,
+      "seat": 7,
+      "card": "ASH-250",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 12,
+      "seat": 8,
+      "card": "ASH-246",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 13,
+      "seat": 1,
+      "card": "ASH-233",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 13,
+      "seat": 2,
+      "card": "ASH-449",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 13,
+      "seat": 3,
+      "card": "ASH-188",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 13,
+      "seat": 4,
+      "card": "ASH-212",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 13,
+      "seat": 5,
+      "card": "ASH-262",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 13,
+      "seat": 6,
+      "card": "ASH-074",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 13,
+      "seat": 7,
+      "card": "ASH-117",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 13,
+      "seat": 8,
+      "card": "ASH-198",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 14,
+      "seat": 1,
+      "card": "ASH-162",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 14,
+      "seat": 2,
+      "card": "ASH-205",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 14,
+      "seat": 3,
+      "card": "ASH-231",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 14,
+      "seat": 4,
+      "card": "ASH-091",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 14,
+      "seat": 5,
+      "card": "ASH-136",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 14,
+      "seat": 6,
+      "card": "ASH-150",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 14,
+      "seat": 7,
+      "card": "ASH-207",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 1,
+      "pick": 14,
+      "seat": 8,
+      "card": "ASH-217",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 1,
+      "seat": 1,
+      "card": "ASH-147",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 1,
+      "seat": 2,
+      "card": "ASH-252",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 1,
+      "seat": 3,
+      "card": "ASH-154",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 1,
+      "seat": 4,
+      "card": "ASH-193",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 1,
+      "seat": 5,
+      "card": "ASH-424",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 1,
+      "seat": 6,
+      "card": "ASH-053",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 1,
+      "seat": 7,
+      "card": "ASH-095",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 1,
+      "seat": 8,
+      "card": "ASH-047",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 2,
+      "seat": 1,
+      "card": "ASH-175",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 2,
+      "seat": 2,
+      "card": "ASH-252",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 2,
+      "seat": 3,
+      "card": "ASH-668",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 2,
+      "seat": 4,
+      "card": "ASH-194",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 2,
+      "seat": 5,
+      "card": "ASH-157",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 2,
+      "seat": 6,
+      "card": "ASH-694",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 2,
+      "seat": 7,
+      "card": "ASH-130",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 2,
+      "seat": 8,
+      "card": "ASH-062",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 3,
+      "seat": 1,
+      "card": "ASH-191",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 3,
+      "seat": 2,
+      "card": "ASH-056",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 3,
+      "seat": 3,
+      "card": "ASH-174",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 3,
+      "seat": 4,
+      "card": "ASH-190",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 3,
+      "seat": 5,
+      "card": "ASH-139",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 3,
+      "seat": 6,
+      "card": "ASH-189",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 3,
+      "seat": 7,
+      "card": "ASH-119",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 3,
+      "seat": 8,
+      "card": "ASH-050",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 4,
+      "seat": 1,
+      "card": "ASH-141",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 4,
+      "seat": 2,
+      "card": "ASH-131",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 4,
+      "seat": 3,
+      "card": "ASH-221",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 4,
+      "seat": 4,
+      "card": "ASH-228",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 4,
+      "seat": 5,
+      "card": "ASH-165",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 4,
+      "seat": 6,
+      "card": "ASH-238",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 4,
+      "seat": 7,
+      "card": "ASH-096",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 4,
+      "seat": 8,
+      "card": "ASH-068",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 5,
+      "seat": 1,
+      "card": "ASH-146",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 5,
+      "seat": 2,
+      "card": "ASH-126",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 5,
+      "seat": 3,
+      "card": "ASH-253",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 5,
+      "seat": 4,
+      "card": "ASH-166",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 5,
+      "seat": 5,
+      "card": "ASH-166",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 5,
+      "seat": 6,
+      "card": "ASH-480",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 5,
+      "seat": 7,
+      "card": "ASH-597",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 5,
+      "seat": 8,
+      "card": "ASH-121",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 6,
+      "seat": 1,
+      "card": "ASH-244",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 6,
+      "seat": 2,
+      "card": "ASH-058",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 6,
+      "seat": 3,
+      "card": "ASH-254",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 6,
+      "seat": 4,
+      "card": "ASH-222",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 6,
+      "seat": 5,
+      "card": "ASH-108",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 6,
+      "seat": 6,
+      "card": "ASH-086",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 6,
+      "seat": 7,
+      "card": "ASH-133",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 6,
+      "seat": 8,
+      "card": "ASH-239",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 7,
+      "seat": 1,
+      "card": "ASH-489",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 7,
+      "seat": 2,
+      "card": "ASH-111",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 7,
+      "seat": 3,
+      "card": "ASH-254",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 7,
+      "seat": 4,
+      "card": "ASH-143",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 7,
+      "seat": 5,
+      "card": "ASH-136",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 7,
+      "seat": 6,
+      "card": "ASH-091",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 7,
+      "seat": 7,
+      "card": "ASH-741",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 7,
+      "seat": 8,
+      "card": "ASH-508",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 8,
+      "seat": 1,
+      "card": "ASH-187",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 8,
+      "seat": 2,
+      "card": "ASH-061",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 8,
+      "seat": 3,
+      "card": "ASH-718",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 8,
+      "seat": 4,
+      "card": "ASH-190",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 8,
+      "seat": 5,
+      "card": "ASH-186",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 8,
+      "seat": 6,
+      "card": "ASH-042",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 8,
+      "seat": 7,
+      "card": "ASH-081",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 8,
+      "seat": 8,
+      "card": "ASH-097",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 9,
+      "seat": 1,
+      "card": "ASH-141",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 9,
+      "seat": 2,
+      "card": "ASH-061",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 9,
+      "seat": 3,
+      "card": "ASH-232",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 9,
+      "seat": 4,
+      "card": "ASH-246",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 9,
+      "seat": 5,
+      "card": "ASH-130",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 9,
+      "seat": 6,
+      "card": "ASH-573",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 9,
+      "seat": 7,
+      "card": "ASH-259",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 9,
+      "seat": 8,
+      "card": "ASH-346",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 10,
+      "seat": 1,
+      "card": "ASH-242",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 10,
+      "seat": 2,
+      "card": "ASH-081",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 10,
+      "seat": 3,
+      "card": "ASH-201",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 10,
+      "seat": 4,
+      "card": "ASH-221",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 10,
+      "seat": 5,
+      "card": "ASH-389",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 10,
+      "seat": 6,
+      "card": "ASH-244",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 10,
+      "seat": 7,
+      "card": "ASH-137",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 10,
+      "seat": 8,
+      "card": "ASH-096",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 11,
+      "seat": 1,
+      "card": "ASH-333",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 11,
+      "seat": 2,
+      "card": "ASH-138",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 11,
+      "seat": 3,
+      "card": "ASH-261",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 11,
+      "seat": 4,
+      "card": "ASH-150",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 11,
+      "seat": 5,
+      "card": "ASH-185",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 11,
+      "seat": 6,
+      "card": "ASH-082",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 11,
+      "seat": 7,
+      "card": "ASH-071",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 11,
+      "seat": 8,
+      "card": "ASH-078",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 12,
+      "seat": 1,
+      "card": "ASH-259",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 12,
+      "seat": 2,
+      "card": "ASH-516",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 12,
+      "seat": 3,
+      "card": "ASH-185",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 12,
+      "seat": 4,
+      "card": "ASH-189",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 12,
+      "seat": 5,
+      "card": "ASH-217",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 12,
+      "seat": 6,
+      "card": "ASH-526",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 12,
+      "seat": 7,
+      "card": "ASH-180",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 12,
+      "seat": 8,
+      "card": "ASH-138",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 13,
+      "seat": 1,
+      "card": "ASH-164",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 13,
+      "seat": 2,
+      "card": "ASH-069",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 13,
+      "seat": 3,
+      "card": "ASH-089",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 13,
+      "seat": 4,
+      "card": "ASH-643",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 13,
+      "seat": 5,
+      "card": "ASH-734",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 13,
+      "seat": 6,
+      "card": "ASH-228",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 13,
+      "seat": 7,
+      "card": "ASH-211",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 13,
+      "seat": 8,
+      "card": "ASH-362",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 14,
+      "seat": 1,
+      "card": "ASH-032",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 14,
+      "seat": 2,
+      "card": "ASH-090",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 14,
+      "seat": 3,
+      "card": "ASH-058",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 14,
+      "seat": 4,
+      "card": "ASH-064",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 14,
+      "seat": 5,
+      "card": "ASH-235",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 14,
+      "seat": 6,
+      "card": "ASH-210",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 14,
+      "seat": 7,
+      "card": "ASH-038",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 2,
+      "pick": 14,
+      "seat": 8,
+      "card": "ASH-075",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 1,
+      "seat": 1,
+      "card": "ASH-218",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 1,
+      "seat": 2,
+      "card": "ASH-057",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 1,
+      "seat": 3,
+      "card": "ASH-234",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 1,
+      "seat": 4,
+      "card": "ASH-104",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 1,
+      "seat": 5,
+      "card": "ASH-258",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 1,
+      "seat": 6,
+      "card": "ASH-046",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 1,
+      "seat": 7,
+      "card": "ASH-642",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 1,
+      "seat": 8,
+      "card": "ASH-552",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 2,
+      "seat": 1,
+      "card": "ASH-192",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 2,
+      "seat": 2,
+      "card": "ASH-120",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 2,
+      "seat": 3,
+      "card": "ASH-160",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 2,
+      "seat": 4,
+      "card": "ASH-143",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 2,
+      "seat": 5,
+      "card": "ASH-131",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 2,
+      "seat": 6,
+      "card": "ASH-223",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 2,
+      "seat": 7,
+      "card": "ASH-093",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 2,
+      "seat": 8,
+      "card": "ASH-241",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 3,
+      "seat": 1,
+      "card": "ASH-171",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 3,
+      "seat": 2,
+      "card": "ASH-327",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 3,
+      "seat": 3,
+      "card": "ASH-155",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 3,
+      "seat": 4,
+      "card": "ASH-234",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 3,
+      "seat": 5,
+      "card": "ASH-127",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 3,
+      "seat": 6,
+      "card": "ASH-067",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 3,
+      "seat": 7,
+      "card": "ASH-034",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 3,
+      "seat": 8,
+      "card": "ASH-129",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 4,
+      "seat": 1,
+      "card": "ASH-170",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 4,
+      "seat": 2,
+      "card": "ASH-249",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 4,
+      "seat": 3,
+      "card": "ASH-178",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 4,
+      "seat": 4,
+      "card": "ASH-236",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 4,
+      "seat": 5,
+      "card": "ASH-134",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 4,
+      "seat": 6,
+      "card": "ASH-240",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 4,
+      "seat": 7,
+      "card": "ASH-125",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 4,
+      "seat": 8,
+      "card": "ASH-029",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 5,
+      "seat": 1,
+      "card": "ASH-764",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 5,
+      "seat": 2,
+      "card": "ASH-373",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 5,
+      "seat": 3,
+      "card": "ASH-153",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 5,
+      "seat": 4,
+      "card": "ASH-167",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 5,
+      "seat": 5,
+      "card": "ASH-156",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 5,
+      "seat": 6,
+      "card": "ASH-220",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 5,
+      "seat": 7,
+      "card": "ASH-051",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 5,
+      "seat": 8,
+      "card": "ASH-051",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 6,
+      "seat": 1,
+      "card": "ASH-174",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 6,
+      "seat": 2,
+      "card": "ASH-087",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 6,
+      "seat": 3,
+      "card": "ASH-202",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 6,
+      "seat": 4,
+      "card": "ASH-227",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 6,
+      "seat": 5,
+      "card": "ASH-249",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 6,
+      "seat": 6,
+      "card": "ASH-588",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 6,
+      "seat": 7,
+      "card": "ASH-240",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 6,
+      "seat": 8,
+      "card": "ASH-390",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 7,
+      "seat": 1,
+      "card": "ASH-145",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 7,
+      "seat": 2,
+      "card": "ASH-386",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 7,
+      "seat": 3,
+      "card": "ASH-225",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 7,
+      "seat": 4,
+      "card": "ASH-215",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 7,
+      "seat": 5,
+      "card": "ASH-134",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 7,
+      "seat": 6,
+      "card": "ASH-087",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 7,
+      "seat": 7,
+      "card": "ASH-045",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 7,
+      "seat": 8,
+      "card": "ASH-575",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 8,
+      "seat": 1,
+      "card": "ASH-222",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 8,
+      "seat": 2,
+      "card": "ASH-065",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 8,
+      "seat": 3,
+      "card": "ASH-677",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 8,
+      "seat": 4,
+      "card": "ASH-167",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 8,
+      "seat": 5,
+      "card": "ASH-120",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 8,
+      "seat": 6,
+      "card": "ASH-260",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 8,
+      "seat": 7,
+      "card": "ASH-100",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 8,
+      "seat": 8,
+      "card": "ASH-129",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 9,
+      "seat": 1,
+      "card": "ASH-175",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 9,
+      "seat": 2,
+      "card": "ASH-261",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 9,
+      "seat": 3,
+      "card": "ASH-035",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 9,
+      "seat": 4,
+      "card": "ASH-041",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 9,
+      "seat": 5,
+      "card": "ASH-116",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 9,
+      "seat": 6,
+      "card": "ASH-232",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 9,
+      "seat": 7,
+      "card": "ASH-111",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 9,
+      "seat": 8,
+      "card": "ASH-045",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 10,
+      "seat": 1,
+      "card": "ASH-145",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 10,
+      "seat": 2,
+      "card": "ASH-251",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 10,
+      "seat": 3,
+      "card": "ASH-430",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 10,
+      "seat": 4,
+      "card": "ASH-142",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 10,
+      "seat": 5,
+      "card": "ASH-154",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 10,
+      "seat": 6,
+      "card": "ASH-214",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 10,
+      "seat": 7,
+      "card": "ASH-089",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 10,
+      "seat": 8,
+      "card": "ASH-082",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 11,
+      "seat": 1,
+      "card": "ASH-188",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 11,
+      "seat": 2,
+      "card": "ASH-107",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 11,
+      "seat": 3,
+      "card": "ASH-157",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 11,
+      "seat": 4,
+      "card": "ASH-164",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 11,
+      "seat": 5,
+      "card": "ASH-107",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 11,
+      "seat": 6,
+      "card": "ASH-239",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 11,
+      "seat": 7,
+      "card": "ASH-072",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 11,
+      "seat": 8,
+      "card": "ASH-263",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 12,
+      "seat": 1,
+      "card": "ASH-523",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 12,
+      "seat": 2,
+      "card": "ASH-204",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 12,
+      "seat": 3,
+      "card": "ASH-471",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 12,
+      "seat": 4,
+      "card": "ASH-452",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 12,
+      "seat": 5,
+      "card": "ASH-115",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 12,
+      "seat": 6,
+      "card": "ASH-608",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 12,
+      "seat": 7,
+      "card": "ASH-264",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 12,
+      "seat": 8,
+      "card": "ASH-350",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 13,
+      "seat": 1,
+      "card": "ASH-076",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 13,
+      "seat": 2,
+      "card": "ASH-251",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 13,
+      "seat": 3,
+      "card": "ASH-469",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 13,
+      "seat": 4,
+      "card": "ASH-214",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 13,
+      "seat": 5,
+      "card": "ASH-521",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 13,
+      "seat": 6,
+      "card": "ASH-203",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 13,
+      "seat": 7,
+      "card": "ASH-264",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 13,
+      "seat": 8,
+      "card": "ASH-218",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 14,
+      "seat": 1,
+      "card": "ASH-075",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 14,
+      "seat": 2,
+      "card": "ASH-124",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 14,
+      "seat": 3,
+      "card": "ASH-748",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 14,
+      "seat": 4,
+      "card": "ASH-103",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 14,
+      "seat": 5,
+      "card": "ASH-231",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 14,
+      "seat": 6,
+      "card": "ASH-201",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 14,
+      "seat": 7,
+      "card": "ASH-116",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 3,
+      "pick": 14,
+      "seat": 8,
+      "card": "ASH-057",
+      "token": 5
+    }
+  ]
+}

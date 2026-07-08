@@ -32,7 +32,7 @@ from collections import defaultdict, Counter
 # that seat S+1 opened (wrapping N -> 1). "right" moves the other way.
 # The script prints a one-line check after the first pass — if it says seat 1
 # received the wrong neighbour's pack, flip that pack's value.
-PASS_DIRECTIONS = {1: "left", 2: "right", 3: "left"}
+PASS_DIRECTIONS = {0: "right", 1: "left", 2: "right", 3: "left"}
 
 # Optional. Which player number is the protagonist (default focus + star).
 PROTAGONIST_PLAYER = 1

@@ -1,45 +1,46 @@
 {
   "draft": {
     "set": "ASH",
-    "date": "2026-07-05",
+    "date": "",
     "seats": [
       {
         "seat": 1,
-        "player": "Pontus"
+        "player": "Seat 1"
       },
       {
         "seat": 2,
-        "player": "Tim"
+        "player": "Seat 2"
       },
       {
         "seat": 3,
-        "player": "Albin"
+        "player": "Seat 3"
       },
       {
         "seat": 4,
-        "player": "Linus"
+        "player": "Seat 4"
       },
       {
         "seat": 5,
-        "player": "Adam"
+        "player": "Seat 5"
       },
       {
         "seat": 6,
-        "player": "Niklas"
+        "player": "Seat 6"
       },
       {
         "seat": 7,
-        "player": "Elias"
+        "player": "Seat 7"
       },
       {
         "seat": 8,
-        "player": "Wadman"
+        "player": "Seat 8"
       }
     ],
     "config": {
-      "pack_size": 14,
+      "pack_size": 3,
       "protagonist_seat": 1,
       "pass_directions": {
+        "0": "right",
         "1": "left",
         "2": "right",
         "3": "left"
@@ -47,6 +48,94 @@
     }
   },
   "packs": [
+    {
+      "pack_id": "R0-S1",
+      "round": 0,
+      "opened_by_seat": 1,
+      "token": 1,
+      "cards": [
+        "ASH-006",
+        "ASH-008",
+        "ASH-011"
+      ]
+    },
+    {
+      "pack_id": "R0-S2",
+      "round": 0,
+      "opened_by_seat": 2,
+      "token": 2,
+      "cards": [
+        "ASH-008",
+        "ASH-011",
+        "ASH-275"
+      ]
+    },
+    {
+      "pack_id": "R0-S3",
+      "round": 0,
+      "opened_by_seat": 3,
+      "token": 3,
+      "cards": [
+        "ASH-013",
+        "ASH-016",
+        "ASH-266"
+      ]
+    },
+    {
+      "pack_id": "R0-S4",
+      "round": 0,
+      "opened_by_seat": 4,
+      "token": 4,
+      "cards": [
+        "ASH-009",
+        "ASH-013",
+        "ASH-016"
+      ]
+    },
+    {
+      "pack_id": "R0-S5",
+      "round": 0,
+      "opened_by_seat": 5,
+      "token": 5,
+      "cards": [
+        "ASH-003",
+        "ASH-006",
+        "ASH-011"
+      ]
+    },
+    {
+      "pack_id": "R0-S6",
+      "round": 0,
+      "opened_by_seat": 6,
+      "token": 6,
+      "cards": [
+        "ASH-006",
+        "ASH-007",
+        "ASH-009"
+      ]
+    },
+    {
+      "pack_id": "R0-S7",
+      "round": 0,
+      "opened_by_seat": 7,
+      "token": 7,
+      "cards": [
+        "ASH-012",
+        "ASH-014",
+        "ASH-017"
+      ]
+    },
+    {
+      "pack_id": "R0-S8",
+      "round": 0,
+      "opened_by_seat": 8,
+      "token": 8,
+      "cards": [
+        "ASH-003",
+        "ASH-004",
+        "ASH-017"
+      ]
+    },
     {
       "pack_id": "R1-S1",
       "round": 1,
@@ -577,6 +666,198 @@
     }
   ],
   "picks": [
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 1,
+      "seat": 1,
+      "card": "ASH-011",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 1,
+      "seat": 2,
+      "card": "ASH-275",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 1,
+      "seat": 3,
+      "card": "ASH-013",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 1,
+      "seat": 4,
+      "card": "ASH-016",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 1,
+      "seat": 5,
+      "card": "ASH-011",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 1,
+      "seat": 6,
+      "card": "ASH-006",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 1,
+      "seat": 7,
+      "card": "ASH-014",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 1,
+      "seat": 8,
+      "card": "ASH-003",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 2,
+      "seat": 1,
+      "card": "ASH-017",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 2,
+      "seat": 2,
+      "card": "ASH-006",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 2,
+      "seat": 3,
+      "card": "ASH-011",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 2,
+      "seat": 4,
+      "card": "ASH-016",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 2,
+      "seat": 5,
+      "card": "ASH-009",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 2,
+      "seat": 6,
+      "card": "ASH-003",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 2,
+      "seat": 7,
+      "card": "ASH-007",
+      "token": 6
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 2,
+      "seat": 8,
+      "card": "ASH-017",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 3,
+      "seat": 1,
+      "card": "ASH-012",
+      "token": 7
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 3,
+      "seat": 2,
+      "card": "ASH-004",
+      "token": 8
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 3,
+      "seat": 3,
+      "card": "ASH-008",
+      "token": 1
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 3,
+      "seat": 4,
+      "card": "ASH-008",
+      "token": 2
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 3,
+      "seat": 5,
+      "card": "ASH-266",
+      "token": 3
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 3,
+      "seat": 6,
+      "card": "ASH-013",
+      "token": 4
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 3,
+      "seat": 7,
+      "card": "ASH-006",
+      "token": 5
+    },
+    {
+      "phase": "booster",
+      "round": 0,
+      "pick": 3,
+      "seat": 8,
+      "card": "ASH-009",
+      "token": 6
+    },
     {
       "phase": "booster",
       "round": 1,

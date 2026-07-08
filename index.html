@@ -255,7 +255,7 @@ const ASPECTS = [
 const TYPE_ORDER = ["Unit","Event","Upgrade","Leader","Base"];
 const META = {};                 // canonical id -> { aspects:[...], cost:Number|null, type }
 const hiddenAspects = new Set();
-let poolSort = "type";           // "type" = cost grouped by type, "pick" = draft order
+let poolSort = "pick";           // "type" = cost grouped by type, "pick" = draft order
 let metaLoaded = false;
 let currentPool = [];            // pick-ordered ids for the focused seat at the current stop
 
